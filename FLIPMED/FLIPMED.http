@@ -1,0 +1,6 @@
+@FLIPMED_HostAddress = http://localhost:5013
+
+GET {{FLIPMED_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
